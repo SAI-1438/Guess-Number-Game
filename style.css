@@ -1,0 +1,80 @@
+#body{
+    background-color:black;
+    margin: 0%;
+}
+#playagain-button{
+    height:50px;
+    width:250px;
+    background-color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
+    border:none;
+    border-radius: 10px;
+    margin:10px;
+}
+#btwn{
+    height:45px;
+    width:330px;
+    font-size: 40px;
+    color:whitesmoke;
+    text-align: center;
+    float:right;
+}
+#h1{
+    color:whitesmoke;
+    text-align: center;
+    font-size: 60px;
+    margin: 0px;
+}
+#hr{
+    height: 8px;
+    background-color: whitesmoke;
+    border: none;
+}
+#qn{
+    background-color: whitesmoke;
+    font-size: 60px;
+    text-align: center;
+    width:150px;
+    height: 110px;
+    margin: 0%;
+    position:relative;
+    z-index:1;
+    left:45%;
+    top:-80px;
+    padding-top: 30px;
+}
+#input{
+    border:5px solid whitesmoke;
+    background-color:black;
+    color:whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    height: 110px;
+    width: 250px;
+    position:relative;
+    left:16%;
+}
+#guess{
+    float:right;
+    color:whitesmoke;
+    font-size: 40px;
+    width:550px;
+}
+#check{
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 20px;
+    height: 60px;
+    width: 110px;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    left:21%;
+}
+#p{
+    float: right;
+    width:550px;
+    font-size: 25px;
+    color: whitesmoke;
+}
