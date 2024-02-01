@@ -1,3 +1,7 @@
+let playagain = document.getElementById('playagain-button');
+playagain.addEventListener("click", () => {
+    window.location.reload();
+});
 let bdy = document.getElementById('body');
 let randomNumber = Math.floor(Math.random()*100);
 let b = document.getElementsByTagName('b');
